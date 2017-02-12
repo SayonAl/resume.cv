@@ -10,7 +10,7 @@
       <table style="width:100%">
         <tr>
           <td class="item-title">求职意向：</td>
-          <td class="item-content">Web前端开发、软件研发</td>
+          <td class="item-content">Web前端开发、软件研发、软件测试</td>
           <td class="item-title">英语水平：</td>
           <td class="item-content">CET-4</td>
         </tr>
@@ -74,7 +74,7 @@
         <section>
         <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2015.10——2016.01 Web前端设计</td>
+          <td colspan="2" class="project-title">2015.10——2016.01 Web前端设计  [点击这里](https://github.com/SayonAl/HSL.html)</td>
           </tr>
           <tr>
             <td class="project-sub-title" valign="top">项目描述:</td>
@@ -95,7 +95,7 @@
         </table>
            <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发</td>
+            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发 [点击这里]（https://github.com/SayonAl/Project-practice）</td>
           </tr>
           <tr>
             <td class="project-sub-title" valign="top">项目描述:</td>
