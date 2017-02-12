@@ -95,7 +95,7 @@
         </table>
            <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发 [点击这里]（https://github.com/SayonAl/Project-practice）</td>
+            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发 [请点击]（https://github.com/SayonAl/Project-practice ）</td>
           </tr>
           <tr>
             <td class="project-sub-title" valign="top">项目描述:</td>
