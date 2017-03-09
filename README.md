@@ -1,6 +1,5 @@
  <header>
-    <h1 style="color:#e8e8e8; font-size: 30px; font-weight:bold;text-align:right;text-shadow: 2px 2px 2px #333, 0px 0px 5px #666; margin-top:15px;">倪诗语</h1>
-    <h1 style="color:#e8e8e8; font-size: 30px; font-weight:bold;text-align:right;text-shadow: 2px 2px 2px #333, 0px 0px 5px #666; margin-top:15px;">个人简历</h1>
+    <h1 style="color:#e8e8e8; font-size: 30px; font-weight:bold;text-align:right;text-shadow: 2px 2px 2px #333, 0px 0px 5px #666; margin-top:15px;">倪诗语    个人简历</h1>
     <section style="padding:6px 0px;">
       <hr/>
     </section>
@@ -95,7 +94,7 @@
         </table>
            <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发 [请点击]（https://github.com/SayonAl/Project-practice ）</td>
+            <td colspan="2" class="project-title">2015.05——2016.05 基于CTP交易平台的研发 [请点击]（https://github.com/SayonAl/Project-practice）</td>
           </tr>
           <tr>
             <td class="project-sub-title" valign="top">项目描述:</td>
